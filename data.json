@@ -1,0 +1,15 @@
+[
+    {
+        "id":"1",
+        "tipe" : "Toyota Rush",
+        "foto" : "toyota-rush.jpg",
+        "deskripsi":"Di generasi terbarunya, baik Rush dan Terios menawarkan perubahan sangat revolusioner dengan desain yang lebih sleek dan modern. Beberapa fitur kekinian seperti lampu depan LED dan berbagai fitur keamanan pun tak lupa untuk disematkan. Mesin berkapasitas 1.5 liter pun berganti dengan versi lebih baru dengan performa dan efisiensi yang lebih baik"
+    },
+    {
+        "id": "2",
+        "tipe": "Suzuki XL7",
+        "foto": "suzuki-xl7.jpg",
+        "deskripsi":"XL7 adalah jawaban Suzuki untuk menandingi kompetitornya seperti Toyota Rush, Daihatsu Terios, Honda BR-V hingga Mitsubishi Xpander Cross. Namanya XL7 sendiri menegaskan bawa LSUV Suzuki ini menganut 7 seater. Tak hanya itu, nama XL7 juga mengingatkan kita pada sosok Escudo XL6 yang cukup fenomenal di dekade ‘2000-an"
+    }
+  
+]

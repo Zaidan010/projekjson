@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "tipe": "Vespa Primavera",
+        "foto": "vespa-matic.jpg",
+        "deskripsi":"Vespa Primavera adalah motor matic bergengsi buat Anda yang suka dengan kemewahan dan ingin tampil gaya. Sayangnya, bukan hanya harganya saja yang mahal tetapi biaya perawatan motor ini tidak bisa dibilang murah juga"
+    },
+    {
+        "id": "2",
+        "tipe": "Yamaha Aerox 155",
+        "foto": "Yamaha-Aerox.jpg",
+        "deskripsi":"Jika Anda suka tampil gagah dan sporty saat mengendarai motor matic, Yamaha Aerox 155 bisa jadi pilihan yang tepat. Motor matic yang keren ini hadir dalam tiga pilihan tipe berbeda yaitu standar, R-Version, dan S-Version."
+    }
+]

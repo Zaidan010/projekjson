@@ -1,0 +1,39 @@
+[
+    {
+        "id":"1",
+        "tipe" : "Yamaha MX King",
+        "foto" : "yamaha-mxking.jpg",
+        "deskripsi":"<p>Kalau kamu ingin motor kopling tapi gak suka sama motor sport, kamu bisa memilih motor bebek. Ada beberapa pilihan motor bebek berkopling.</p><p>Salah satunya adalah Yamaha MX King. Motor bermesin 150 cc ini sangat powerful dan larinya gak akan kalah dengan motor sport 150 cc.</p><p> Kelebihan lain MX King adalah desainnya yang sangat sporty. Motor ini dibanderol mulai Rp 24jutaan </p>"
+    },
+    {
+        "id": "2",
+        "tipe": "Vespa Primavera",
+        "foto": "vespa-matic.jpg",
+        "deskripsi":"<p>Vespa Primavera adalah motor matic bergengsi buat Anda yang suka dengan kemewahan dan ingin tampil gaya. Sayangnya, bukan hanya harganya saja yang mahal tetap biaya perawatan motor ini tidak bisa dibilang murah juga.</p><p>Ketika Anda membawa motor vespa ini untuk servis secara berkala, bersiaplah mengeluarkan biaya lebih untuk mengganti komponennya. Meskipun demikian, motor ini memang punya tampilan yang sangat stylish dengan kekuatan mesin yang mumpuni.Mengendarai vespa di jalanan dijamin membuat Anda semakin percaya diri. Vespa ini dibandrol dengan harga RP.45.000.000 - RP.50.000.000</p>"
+    },
+    {
+        "id": "3",
+        "tipe": "Yamaha Aerox 155",
+        "foto": "Yamaha-Aerox.jpg",
+        "deskripsi":"<p>Jika Anda suka tampil gagah dan sporty saat mengendarai motor matic, Yamaha Aerox 155 bisa jadi pilihan yang tepat. Dengan harga RP 25 juta sampai RP 30 juta, motor matic yang keren ini hadir dalam tiga pilihan tipe berbeda yaitu standar, R-Version, dan S-Version.</p><p>Kapasitas mesinnya juga cukup gahar, yaitu 155cc dengan teknologi Blue Core dan VVA. Namun perlu diperhatikan bahwa motor ini punya bodi yang sangat besar dan berat, tidak seperti motor matic pada umumnya.  Motor ini cocok untuk Anda yang bertubuh tinggi besar, sehingga tidak kesulitan ketika mengendalikannya.</p>"
+    },
+    {
+        "id": "4",
+        "tipe": "Yamaha Freego",
+        "foto": "yamaha.jpg",
+        "deskripsi":"<p>Yamaha FreeGo mengusung tema 'The Amazing Matic' ketika diperkenalkan untuk pertama kalinya ke hadapan publik. Tersedia 4 warna yang cantik untuk sepeda motor ini yakni Metallic Black, Metallic Red, Matte Grey, dan Matte Blue.</p><p>Sepeda motor matic ini memiliki mesin berkapasitas 125cc dan dibekali dengan deretan fitur canggih untuk menambah kenyamanan Anda selama berkendara. Spidometer motor ini sudah full digital, lengkap dengan multi information display yang menampilkan berbagai macam informasi penting.</p><p>Yamaha FreeGo juga sudah mengusung fitur keyless dengan answer back system yang bisa ditemukan pada varian tertingginya. Fitur lain yang tidak kalah menarik adalah smart lock dan stand side switch.</p>"
+    },
+    {
+        "id": "5",
+        "tipe": "Honda CB150R",
+        "foto": "Honda-CB150R.jpg",
+        "deskripsi":"<p>Kalau kamu ingin motor kopling yang lebih kece, kamu bisa melirik Honda CB150R Streetfire. Motor ini dibekali mesin 149.16cc dengan 6 tingkat percepatan. Powernya jelas lebih bertenaga dibandingkan Verza.</p><p>Hanya saja harganya juga lebih mahal, yakni Rp28,61-Rp29,71 Juta. Tapi kalau kamu ingin performa yang lebih, rasanya motor ini cukup layak kamu pertimbangkan.</p>"
+    },
+    {
+        "id": "6",
+        "tipe": "Suzuki Satria 150",
+        "foto": "satrria-160.jpg",
+        "deskripsi":"<p>Gak akan lengkap membahas motor kopling kalau gak menyertakan motor satu ini. Yup, Suzuki Satria F150 adalah legenda.Desainnya mirip ayam jago, larinya ngacir banget. Kalau kamu pencinta kecepatan, motor ini harus kamu pertimbangkan.</p><p>Sebab mesin 147 cc DOH 4 valve-nya juara. Pesaing terdekat motor ini adalah Honda Sonic. Suzuki Satria dibanderol mulai Rp25 jutaan.</p>"
+    }
+  
+]
